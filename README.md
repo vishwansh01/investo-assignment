@@ -42,6 +42,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Tailwind CSS
+- TypeScript
 - [Next.js](https://nextjs.org/) - React framework
 - [React Icons](https://react-icons.github.io/react-icons/) - For icons
 

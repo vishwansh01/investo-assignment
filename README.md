@@ -24,10 +24,10 @@ Users should be able to:
 - Use the slider and toggle to see prices for different page view numbers
 
 ### Screenshot
+<img width="1918" height="933" alt="Screenshot1" src="https://github.com/user-attachments/assets/684f3061-5c7f-4a59-993d-6dadbeaccb38" />
+<img width="1919" height="934" alt="Screenshot2" src="https://github.com/user-attachments/assets/af9108b8-5672-4a1d-bdc8-654bc366dbf5" />
+<img width="1910" height="902" alt="Screenshot3" src="https://github.com/user-attachments/assets/94895a2d-0856-490a-ba58-c439299c18a3" />
 
-![](/Screenshot1.png)
-![](/Screenshot2.png)
-![](/Screenshot3.png)
 
 ### Links
 
